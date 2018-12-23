@@ -1,12 +1,11 @@
 React Bootstrap Admin Panel.
 
 Installation:
-1. git clone https://github.com/Granddevv/React-Bootstrap-Admin-BigStar.git.
+1. git clone https://github.com/Excellent1212/Admin-Bigstar-React-Bootstrap-.git.
 2. npm install
 3. npm start.
 
 Goto http://localhost:8080/
-![alt text](https://raw.githubusercontent.com/granddevv/React-Bootstrap-Admin-BigStar/master/public/img/preview.jpg)
 
 Language & Technology:
 1. JavaScript and React.
